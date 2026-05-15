@@ -1,4 +1,6 @@
-Hello, I'm Dan Pham
+# Hello 
+I'm Dan Pham
+
 ## Aspiring Librarian | Currently Computer Science Student
 
 I'm currently studying Computer Science at San Jose City College,
