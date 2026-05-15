@@ -26,6 +26,7 @@ focusing on full-stack development and cloud computing.
 
 ### How to reach me
 - Email: Dpham3045@yahoo.com
+- Bluesky: https://bsky.app 
 - Portfolio: [Coming Soon]
 
 ![Static Badge](https://img.shields.io/badge/Hurry-In%20a%20rush-blue)
